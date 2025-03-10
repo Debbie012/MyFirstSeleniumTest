@@ -4,8 +4,10 @@ import loginform
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+# Initialize a new Chrome browser instance using Selenium WebDriver
 driver = webdriver.Chrome()
 
+# Navigate to the CRM login page of Automation Playground
 driver.get("https://automationplayground.com/crm/login.html")
 time.sleep(5)
 
