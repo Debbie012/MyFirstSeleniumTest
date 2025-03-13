@@ -1,1 +1,2 @@
-# MyFirstSeleniumTest
+# Selenium Automation - CRM Login & Customer Addition
+This project automates the login process for Automation Playground CRM, adds a new customer, and logs out using Selenium WebDriver. The script launches a Chrome browser, navigates to the CRM login page, enters credentials, submits the form, fills out customer details, and signs out.
